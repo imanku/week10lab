@@ -1,0 +1,41 @@
+div {
+    width: 100%;
+    height: 300px;
+}
+
+.firstDiv {
+    background-color: grey;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman';
+}
+.last {
+    text-align: right;
+}
+
+.secondDiv {
+
+    background-image: url("Photos/inder.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.thirdDiv, .fourthDiv {
+    position: absolute;
+    left: 0px;
+    top: 600px;
+}
+
+.thirdDiv {
+    background-image: url("Photos/manku.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+.fourthDiv {
+    background-color: red;
+    opacity: 0.3;
+}

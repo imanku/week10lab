@@ -1,0 +1,33 @@
+h1 {
+    font-weight: bold;
+    font-size: 32px;
+    font-family: Georgia;
+    color: white;
+    background-color: black;
+    text-align: Center;
+    }
+
+h2 {
+    font-size:18px;
+    color: blue;
+    font-family: georgia;
+}
+.Paragraph {
+    font-size:16px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: georgia;
+    text-align: Center;
+}
+
+.Paragraph1 {
+    font-size:16px;
+    font-family: georgia;
+    text-align: Center;
+}
+
+.Paragraph2 {
+    font-size:16px;
+    text-align:left;
+    color: #00AA55;
+}
